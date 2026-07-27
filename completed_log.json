@@ -1,1 +1,398 @@
-[]
+[
+  {
+    "text": "대전 둔산동/궁동 카페거리에서 안 가본 카페 가보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "평소 안 마시던 음료(흑임자라떼 등) 시도해보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "새벽에 일어나 일출 보기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "자취방 대청소하고 안 쓰는 물건 정리하기",
+    "category": "daily",
+    "rarity": 5,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "편의점 신상 디저트 사서 먹어보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "손편지 써서 부치기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "유성구 목욕탕/찜질방 가서 땀 빼기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "연구실 동료와 커피내기 게임하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "새로운 헤어스타일로 미용실 바꿔보기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "지하철/버스 대신 자전거로 출근해보기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "좋아하는 노래로 플레이리스트 새로 만들기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "하루 동안 SNS 안 하고 지내보기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "우산 없이 갑자기 소나기 맞아보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "안 먹어본 라면 종류 끓여 먹기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "좋아하는 애니/드라마 정주행하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "방 구조 바꿔서 가구 재배치하기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "오랜만에 본가에 안부 전화하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "셀프 사진관에서 인생네컷 찍기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "새로운 식물 하나 사서 키워보기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "하루 동안 디지털 디톡스(폰 최소 사용)해보기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "부모님께 갑자기 영상통화 걸어보기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "여자친구와 함께 요리해서 저녁 먹기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "여자친구에게 손편지나 짧은 쪽지 써서 주기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "형제/자매(또는 사촌)와 오랜만에 통화하기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "여자친구와 함께 새로운 산책 코스 개척하기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "가족 단체 카톡방에 안부 인사 먼저 건네기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "여자친구와 커플템(작은 소품) 하나 맞추기",
+    "category": "family",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "여자친구와 다투고 나서 먼저 화해의 말 건네기",
+    "category": "family",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "오랜 친구에게 갑자기 연락해서 안부 묻기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "가족사진 인화해서 액자에 넣어두기",
+    "category": "family",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "대전예술의전당이나 근처 공연장에서 공연 보기",
+    "category": "culture",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "안 읽어본 장르의 소설 한 권 읽기",
+    "category": "culture",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "좋아하는 아티스트 신곡 나오자마자 챙겨듣기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "보드게임 카페 가서 새로운 게임 배우기",
+    "category": "culture",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "방탈출 카페 도전해보기",
+    "category": "culture",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "동네 독립서점 둘러보며 책 한 권 사기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "엄핀뎘쳸메윳은놌거부 사진 찍어보기",
+    "category": "culture",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "대전 근교(계룡산, 장태산 등) 당일치기 여행",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "안산 고향집 들러 옛 동네 한 바퀴 걷기",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "국내 바다 근처로 1박 2일 여행 가기",
+    "category": "travel",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "여자친구와 국내 소도시로 커플 여행 가기",
+    "category": "travel",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "캠핑장 예약해서 1박 캠핑하기",
+    "category": "travel",
+    "rarity": 3,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "안 가본 지역 전통시장 구경하며 로컬푸드 먹기",
+    "category": "travel",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "제주도 여행 가기",
+    "category": "travel",
+    "rarity": 6,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "해외여행 계획 세워서 실제로 다녀오기",
+    "category": "travel",
+    "rarity": 8,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "얰구실 동료들과 주말 등산 가기",
+    "category": "sports",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "한밭수목원/갑천 러닝 코스 뛰어보기",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "헬스장 PT 체험 수업 받아보기",
+    "category": "sports",
+    "rarity": 3,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "클라이밍장 가서 볼더링 체험하기",
+    "category": "sports",
+    "rarity": 5,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "볼링/당구 등 안 해본 실내 스포츠 즐기기",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "자전거로 갑천 라이딩 코스 완주하기",
+    "category": "sports",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "배드민턴이나 테니스 배우기 시작하기",
+    "category": "sports",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "후배 학생 재능기부 멘토링 한 번 해보기",
+    "category": "society",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "기부 정기후원 하나 시작하기",
+    "category": "society",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "지역 커뮤니티 모임(독서모임 등)에 처음 나가보기",
+    "category": "society",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "이력서/CV 업데이트하고 다듬기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "관심 학회/컨퍼런스 일정 알아보고 등록하기",
+    "category": "career",
+    "rarity": 3,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "새로운 프로그래밍 언어나 툴 하나 배워보기",
+    "category": "career",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "관련 분야 유튜브/뉴스레터 구독해서 트렌드 따라가기",
+    "category": "career",
+    "rarity": 1,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "연구 아이디어 노트 따로 정리해서 기록하기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "최근 논문 한 편 정독하고 요약 정리하기",
+    "category": "academia",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "다른 연구실 세미나 청강하러 가기",
+    "category": "academia",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "논문 투고 전 동료에게 피드백 요청하기",
+    "category": "academia",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "국제 학회에 논문 제출해보기",
+    "category": "academia",
+    "rarity": 7,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "국립중앙과학관 전시 둘러보기",
+    "category": "science",
+    "rarity": 2,
+    "done_at": "2026-07-28"
+  },
+  {
+    "text": "실험실 밖 최신 기술(AI, 로봇 등) 데모/전시회 참관하기",
+    "category": "science",
+    "rarity": 4,
+    "done_at": "2026-07-28"
+  }
+]
