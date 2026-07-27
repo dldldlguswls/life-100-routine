@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "text": "배달앱에서 한 번도 안 시켜본 음식 카테고리 주문해보기",
+    "category": "daily",
+    "rarity": 2,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "안 읽고 쌓아둔 책 한 권 완독해",
+    "category": "daily",
+    "rarity": 4,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "낯선 골목에서 우연히 마음에 드는 가게 발견하기",
+    "category": "daily",
+    "rarity": 2,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "부모님 결혼기념일/생신 미리 달력에 표시하고 챙기기",
+    "category": "family",
+    "rarity": 1,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "부모님께 어릴 적 안산 살던 이야기 여쭤보기",
+    "category": "family",
+    "rarity": 4,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "동네 소극장에서 독립영화 보기",
+    "category": "culture",
+    "rarity": 2,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "대전시립미술관/이응노미술관 전시 관람하기",
+    "category": "culture",
+    "rarity": 2,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "재즈바나 라이브클럽에서 공연 감상하기",
+    "category": "culture",
+    "rarity": 4,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "좋아하는 영화 감독의 필모그래피 정주행하기",
+    "category": "culture",
+    "rarity": 2,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "도자기 공방 원데이클래스 체험하기",
+    "category": "culture",
+    "rarity": 4,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "KTX 타고 즉흥적으로 당일치기 여행 떠나기",
+    "category": "travel",
+    "rarity": 3,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "국내 유명 사찰 템플스테이 체험하기",
+    "category": "travel",
+    "rarity": 4,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "수영장 등록해서 첫 강습 받기",
+    "category": "sports",
+    "rarity": 4,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "10km 러닝 대회 참가 신청하고 완주하기",
+    "category": "sports",
+    "rarity": 6,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "지역 환경정화(플로깅) 활동 참여하기",
+    "category": "society",
+    "rarity": 1,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "지역 어르신 대상 재능나눔 행사 참여하기",
+    "category": "society",
+    "rarity": 3,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "관심 있는 자격증 시험 접수하기",
+    "category": "career",
+    "rarity": 4,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "관심 분야 오픈소스 프로젝트에 기여해보기",
+    "category": "academia",
+    "rarity": 4,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "천문대 방문해서 별 관측하기",
+    "category": "science",
+    "rarity": 6,
+    "added_at": "2026-07-28"
+  },
+  {
+    "text": "스카이다이빙 체험하기",
+    "category": "extreme",
+    "rarity": 9,
+    "added_at": "2026-07-28"
+  }
+]
