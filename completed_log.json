@@ -216,7 +216,7 @@
     "done_at": "2026-07-28"
   },
   {
-    "text": "엄핀뎘쳸메윳은놌거부 사진 찍어보기",
+    "text": "필름 카메라로 일상 사진 찍어보기",
     "category": "culture",
     "rarity": 4,
     "done_at": "2026-07-28"
@@ -270,7 +270,7 @@
     "done_at": "2026-07-28"
   },
   {
-    "text": "얰구실 동료들과 주말 등산 가기",
+    "text": "연구실 동료들과 주말 등산 가기",
     "category": "sports",
     "rarity": 2,
     "done_at": "2026-07-28"
@@ -394,5 +394,263 @@
     "category": "science",
     "rarity": 4,
     "done_at": "2026-07-28"
+  },
+  {
+    "text": "아침에 일어나자마자 이불 정리하고 하루 시작하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "대전 소제동 카페거리 구경하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "새벽 배송으로 아침 식재료 받아보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "안 가본 프랜차이즈 카페 신메뉴 마셔보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "손목시계 차고 하루 지내보기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "대전 중앙시장에서 튀김/닭강정 사먹기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "회식 없이 혼자 조용한 저녁 즐기기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "자전거 타이어 직접 교체해보기",
+    "category": "daily",
+    "rarity": 3,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "안 쓰는 물건 당근마켓에 팔아보기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "자기 전 일기 쓰는 습관 일주일 이어가기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "한 달 지출 내역 엑셀로 정리해보기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "여자친구와 동네 산책하며 아이스크림 먹기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "부모님께 안부 문자 먼저 보내기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "여자친구와 함께 드라마 정주행하기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "여자친구 생일 아닌 날에 깜짝 선물하기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "가족 단체톡에 근황 사진 올리기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "여자친구와 동네 맛집 탐방하기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "오랜만에 삼촌/이모께 연락드리기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "여자친구와 1일 데이트 코스 직접 짜서 실행하기",
+    "category": "family",
+    "rarity": 4,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "부모님 모시고 대전 나들이 가기",
+    "category": "family",
+    "rarity": 4,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "대전 성심당에서 신메뉴 빵 사먹기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "좋아하는 뮤지션 라이브 영상 챙겨보기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "뮤지컬 공연 예매해서 보러 가기",
+    "category": "culture",
+    "rarity": 5,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "대전 근교 카페거리 드라이브 다녀오기",
+    "category": "travel",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "처음 가보는 지역 축제 구경가기",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "안산 옛 동네 친구 만나러 다녀오기",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "근교 저수지/호수 드라이브하기",
+    "category": "travel",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "대전에서 당일치기로 부여 여행 가기",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "국내 온천 여행 다녀오기",
+    "category": "travel",
+    "rarity": 3,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "강원도 산간 지역 1박 여행 가기",
+    "category": "travel",
+    "rarity": 5,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "유럽 배낭여행 계획 세워서 다녀오기",
+    "category": "travel",
+    "rarity": 8,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "갑천 자전거길 왕복 완주하기",
+    "category": "sports",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "연구실 후배 실험 도와주기",
+    "category": "society",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "링크드인 프로필 업데이트하기",
+    "category": "career",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "랩미팅 발표자료 새 템플릿으로 만들기",
+    "category": "career",
+    "rarity": 1,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "동료 연구자와 점심 먹으며 네트워킹하기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "논문 인용관리 프로그램(Zotero 등) 정리하기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "연구실 저널클럽에서 논문 발표 맡기",
+    "category": "academia",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "통계 툴(R/Python) 새 패키지 익히기",
+    "category": "academia",
+    "rarity": 2,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "국내 학회에서 포스터 발표하기",
+    "category": "academia",
+    "rarity": 4,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "후배 논문 초안 리뷰해주기",
+    "category": "academia",
+    "rarity": 4,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "국제학술지(SCI급)에 논문 게재 확정되기",
+    "category": "academia",
+    "rarity": 6,
+    "done_at": "2026-07-29"
+  },
+  {
+    "text": "카이스트 캠퍼스 내 전시/행사 둘러보기",
+    "category": "science",
+    "rarity": 2,
+    "done_at": "2026-07-29"
   }
 ]
