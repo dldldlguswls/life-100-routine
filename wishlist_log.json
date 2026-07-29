@@ -6,7 +6,7 @@
     "added_at": "2026-07-28"
   },
   {
-    "text": "안 읽고 쌓아둔 책 한 권 완독해",
+    "text": "안 읽고 쌓아둔 책 한 권 완독해",
     "category": "daily",
     "rarity": 4,
     "added_at": "2026-07-28"
@@ -118,5 +118,95 @@
     "category": "extreme",
     "rarity": 9,
     "added_at": "2026-07-28"
+  },
+  {
+    "text": "갑천변에서 노을 보며 산책하기",
+    "category": "daily",
+    "rarity": 2,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "자취방 냉장고 파먹기(장보기 없이 일주일 버티기)",
+    "category": "daily",
+    "rarity": 3,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "하루 세끼 직접 요리해서 먹기",
+    "category": "daily",
+    "rarity": 5,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "미니멀리즘으로 옷장 절반 비우기",
+    "category": "daily",
+    "rarity": 5,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "여자친구와 커플 운동(테니스 등) 같이 배우기",
+    "category": "family",
+    "rarity": 5,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "온 가족이 모이는 자리 직접 주선하기",
+    "category": "family",
+    "rarity": 5,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "동네 소극장에서 연극 관람하기",
+    "category": "culture",
+    "rarity": 2,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "LP바에서 좋아하는 앨범 신청해서 듣기",
+    "category": "culture",
+    "rarity": 2,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "원데이 드로잉 클래스 체험하기",
+    "category": "culture",
+    "rarity": 4,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "여자친구와 함께 국내 섬 여행 가기",
+    "category": "travel",
+    "rarity": 4,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "지리산 둘레길 일부 구간 걷기",
+    "category": "travel",
+    "rarity": 5,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "스쿼시 배워서 한 달간 꾸준히 치기",
+    "category": "sports",
+    "rarity": 5,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "유튜브로 최신 과학 다큐 한 편 정주행하기",
+    "category": "science",
+    "rarity": 1,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "메이커스페이스에서 3D프린터로 직접 뭔가 만들어보기",
+    "category": "science",
+    "rarity": 4,
+    "added_at": "2026-07-29"
+  },
+  {
+    "text": "패러글라이딩 체험하기",
+    "category": "extreme",
+    "rarity": 8,
+    "added_at": "2026-07-29"
   }
 ]
