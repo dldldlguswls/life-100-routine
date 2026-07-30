@@ -208,5 +208,143 @@
     "category": "extreme",
     "rarity": 8,
     "added_at": "2026-07-29"
+  },
+  {
+    "text": "아침 식사로 토스트 직접 구워 먹기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "연구실 후배와 점심 메뉴 랜덤으로 정하기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "좋아하는 브랜드 매장 신상품 구경하러 가기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "한 달 동안 하루도 안 빠지고 만보 걷기",
+    "category": "daily",
+    "rarity": 4,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "자취방 베란다에 작은 텃밭 꾸미기",
+    "category": "daily",
+    "rarity": 5,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "혼자 1박 국내 워케이션 다녀오기",
+    "category": "daily",
+    "rarity": 5,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "동생(또는 사촌)과 오랜만에 게임 한 판 하기",
+    "category": "family",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "부모님과 영상통화로 저녁 메뉴 함께 골라보기",
+    "category": "family",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "가족에게 안산 옛날 사진 공유해달라고 부탁하기",
+    "category": "family",
+    "rarity": 2,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "여자친구와 처음으로 함께 캠핑 가기",
+    "category": "family",
+    "rarity": 4,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "대전 시청 근처 야외 버스킹 공연 구경하기",
+    "category": "culture",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "보드게임 디자이너 워크숍/전시 참여하기",
+    "category": "culture",
+    "rarity": 4,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "대전 둔산동 은하수공원 야경 보러가기",
+    "category": "travel",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "여자친구와 국내 커플 여행 기념앨범 만들기",
+    "category": "travel",
+    "rarity": 4,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "대전 유성구 공공수영장 자유수영 이용하기",
+    "category": "sports",
+    "rarity": 2,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "계룡산 둘레길 초입 코스 걸어보기",
+    "category": "sports",
+    "rarity": 2,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "철봉으로 턱걸이 10개 도전하기",
+    "category": "sports",
+    "rarity": 4,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "헌혈 처음 도전해보기",
+    "category": "society",
+    "rarity": 2,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "기부 물품 정리해서 아름다운가게에 기부하기",
+    "category": "society",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "이메일 서명 새로 디자인하기",
+    "category": "career",
+    "rarity": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "대전 국립중앙과학관 야간개장 관람하기",
+    "category": "science",
+    "rarity": 2,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "메이커톤(해커톤) 대회 참가하기",
+    "category": "science",
+    "rarity": 5,
+    "added_at": "2026-07-30"
+  },
+  {
+    "text": "초경량비행기(경비행기) 조종 체험하기",
+    "category": "extreme",
+    "rarity": 6,
+    "added_at": "2026-07-30"
   }
 ]
