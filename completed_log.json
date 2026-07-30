@@ -652,5 +652,251 @@
     "category": "science",
     "rarity": 2,
     "done_at": "2026-07-29"
+  },
+  {
+    "text": "자취방 냉장고 정리하고 유통기한 지난 것 버리기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "새로 생긴 무인카페에서 커피 마시기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "자취방 커튼 새로 바꿔 달기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "즉석밥 대신 직접 밥 지어먹기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "동네 세탁소에 이불빨래 맡겨보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "안 쓰는 앱 정리하고 휴대폰 최적화하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "아침 알람 없이 자연스럽게 일어나 보기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "보드게임 유튜브 채널 정주행하며 룰 공부하기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "보드게임 하나 직접 구매해서 소장하기",
+    "category": "daily",
+    "rarity": 3,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "자취방에 보드게임 전용 선반 만들기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "연구실 동료들과 점심시간 보드게임 모임 만들기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "여자친구와 함께 보드게임 카페 데이트하기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "여자친구와 서로 좋아하는 노래 추천해주기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "여자친구와 함께 마트 장보기 데이트하기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "여자친구 회사(또는 연구실) 앞으로 깜짝 마중 가기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "여자친구와 함께 새로 생긴 디저트 가게 가보기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "여자친구와 미래 계획(결혼 등) 진지하게 이야기 나누기",
+    "category": "family",
+    "rarity": 5,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "보드게임 카페에서 새로 나온 신작 게임 배우기",
+    "category": "culture",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "대전 롯데시네마/메가박스에서 심야영화 보기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "좋아하는 밴드의 라이브 클립 챙겨보기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "세종시 당일치기 나들이 다녀오기",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "청주/공주 근교 소도시 당일 여행하기",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "대전역 근처 노포에서 로컬 맛집 탐방하기",
+    "category": "travel",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "근교 글램핑장 예약해서 하루 쉬기",
+    "category": "travel",
+    "rarity": 3,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "안산 옛 친구들과 동창 모임 다녀오기",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "전라도 지역 미식 여행 다녀오기",
+    "category": "travel",
+    "rarity": 4,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "강릉/속초 등 동해안 1박 여행 가기",
+    "category": "travel",
+    "rarity": 5,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "홈트레이닝 앱으로 하루 15분 운동하기",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "갑천 산책로 걷기 목표 세워 완주하기",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "서핑 체험 강습 받으러 가기",
+    "category": "sports",
+    "rarity": 5,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "연구실 실험 폐기물 분리배출 캠페인 참여하기",
+    "category": "society",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "개인 연구 블로그 개설하기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "랩미팅 발표 피드백 노트 만들어 정리하기",
+    "category": "career",
+    "rarity": 1,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "연구 협업 가능한 타 연구실 컨택해보기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "관심 기업 채용설명회 참석해보기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "특허 출원 실제로 진행해보기",
+    "category": "career",
+    "rarity": 5,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "연구 성과 정리해서 학회 발표 신청하기",
+    "category": "career",
+    "rarity": 4,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "랩미팅에서 최신 논문 리뷰 발표하기",
+    "category": "academia",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "연구실 데이터 정리 매뉴얼 만들기",
+    "category": "academia",
+    "rarity": 2,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "타 대학 연구실과 화상 세미나 진행하기",
+    "category": "academia",
+    "rarity": 3,
+    "done_at": "2026-07-30"
+  },
+  {
+    "text": "후배와 함께 논문 공동 저술하기",
+    "category": "academia",
+    "rarity": 4,
+    "done_at": "2026-07-30"
   }
 ]
