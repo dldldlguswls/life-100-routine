@@ -346,5 +346,161 @@
     "category": "extreme",
     "rarity": 6,
     "added_at": "2026-07-30"
+  },
+  {
+    "text": "보드게임 직접 디자인해보기(간단한 룰 만들기)",
+    "category": "daily",
+    "rarity": 5,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "보드게임 카페 신작 리스트 체크하기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "보드게임 대회 온라인으로 참가해보기",
+    "category": "daily",
+    "rarity": 5,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "보드게임 100개 목표로 컬렉션 시작하기",
+    "category": "daily",
+    "rarity": 5,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "대전 스카이로드 야경 구경하기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "자취방 미니 홈짐 꾸미기",
+    "category": "daily",
+    "rarity": 5,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "안 가본 프랜차이즈 빵집 신메뉴 사먹기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "안 신는 신발 정리해서 기부하기",
+    "category": "daily",
+    "rarity": 2,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "한 달 가계부 앱으로 지출 관리하기",
+    "category": "daily",
+    "rarity": 4,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "한 달 동안 모든 끼니 직접 요리하기",
+    "category": "daily",
+    "rarity": 6,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "여자친구와 서로 취미 하나씩 가르쳐주기",
+    "category": "family",
+    "rarity": 2,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "동생과 온라인 게임 같이 하기",
+    "category": "family",
+    "rarity": 1,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "형제/사촌들과 온 가족 보드게임 대회 열기",
+    "category": "family",
+    "rarity": 4,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "부모님께 안마의자 체험시켜드리기",
+    "category": "family",
+    "rarity": 2,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "여자친구와 프러포즈/청혼 이벤트 계획하기",
+    "category": "family",
+    "rarity": 6,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "보드게임 디자이너 온라인 강좌 수강하기",
+    "category": "culture",
+    "rarity": 4,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "대전 예술의전당 무료 공연 관람하기",
+    "category": "culture",
+    "rarity": 2,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "좋아하는 시리즈 영화 몰아보기",
+    "category": "culture",
+    "rarity": 1,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "직접 만든 보드게임으로 퍼블리셔에 피칭하기",
+    "category": "culture",
+    "rarity": 7,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "좋아하는 라디오 프로그램에 사연 보내기",
+    "category": "culture",
+    "rarity": 2,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "대전에서 익산 당일치기 여행",
+    "category": "travel",
+    "rarity": 2,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "근교 스파/온천 당일치기 다녀오기",
+    "category": "travel",
+    "rarity": 2,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "무주/영동 포도밭 체험 가기",
+    "category": "travel",
+    "rarity": 2,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "과학 다큐멘터리 시리즈 정주행하기",
+    "category": "science",
+    "rarity": 1,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "아두이노로 간단한 프로젝트 만들어보기",
+    "category": "science",
+    "rarity": 5,
+    "added_at": "2026-07-31"
+  },
+  {
+    "text": "방탈출 하드모드 올클리어 도전하기",
+    "category": "extreme",
+    "rarity": 4,
+    "added_at": "2026-07-31"
   }
 ]
