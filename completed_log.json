@@ -1,4 +1,4 @@
-[
+undefined[
   {
     "text": "대전 둔산동/궁동 카페거리에서 안 가본 카페 가보기",
     "category": "daily",
@@ -898,5 +898,221 @@
     "category": "academia",
     "rarity": 4,
     "done_at": "2026-07-30"
+  },
+  {
+    "text": "보드게임 점수판 앱 써보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "보드게임 확장팩 하나 사서 뜯어보기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "연구실 냉장고 정리하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "자취방 신발장 정리하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "연구실 화이트보드에 낙서하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "침구 계절 맞춰 바꾸기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "냉동실 정리하고 유통기한 체크하기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "저녁에 동네 한 바퀴 산책하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "새로 나온 편의점 도시락 먹어보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "연구실 사물함 정리하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "좋아하는 유튜버 라이브 방송 챙겨보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "부모님께 요즘 근황 전화로 전하기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "여자친구와 근처 공원 자전거 타기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "오랜만에 가족 단톡방에 여행 사진 올리기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "여자친구와 사진 찍고 인화해서 나눠 갖기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "여자친구와 함께 홈트레이닝 하기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "여자친구와 1박 국내 여행 계획 직접 짜기",
+    "category": "family",
+    "rarity": 5,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "보드게임 유튜브 리뷰 채널 구독하기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "동네 소극장 상영시간표 확인하고 즉흥 관람하기",
+    "category": "culture",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "전주 한옥마을 1박 여행",
+    "category": "travel",
+    "rarity": 4,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "안산 본가 근처 새로 생긴 카페 가보기",
+    "category": "travel",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "청주 근교 수목원 나들이",
+    "category": "travel",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "옥천/영동 등 근교 소도시 당일치기",
+    "category": "travel",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "대전 갑천 벚꽃길 드라이브하기",
+    "category": "travel",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "홈트 유튜브 따라하며 30분 운동하기",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "연구실 동료와 볼링 한 게임",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "대전 유성구 공원 운동기구 이용하기",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "대전 야구장 직관하러 가기",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "자전거로 대전 시내 한 바퀴 돌기",
+    "category": "sports",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "동네 쓰레기 잠깐이라도 줍기",
+    "category": "society",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "중고 물품 나눔 앱에 물건 올리기",
+    "category": "society",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "동네 소상공인 가게 리뷰 남겨주기",
+    "category": "society",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "연구 아카이브 폴더 체계 정리하기",
+    "category": "career",
+    "rarity": 1,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "이력서 사진 새로 찍기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "국내 학회 참석해서 네트워킹하기",
+    "category": "academia",
+    "rarity": 4,
+    "done_at": "2026-07-31"
+  },
+  {
+    "text": "유튜브 과학 채널 신규 구독하기",
+    "category": "science",
+    "rarity": 1,
+    "done_at": "2026-07-31"
   }
 ]
