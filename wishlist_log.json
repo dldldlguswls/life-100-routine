@@ -502,5 +502,161 @@
     "category": "extreme",
     "rarity": 4,
     "added_at": "2026-07-31"
+  },
+  {
+    "text": "보드게임 개발자 크라우드펀딩 후원하고 리워드 받기",
+    "category": "daily",
+    "rarity": 6,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "연구실 앞 자판기 신상 음료 마셔보기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "하루 날씨에 맞는 플레이리스트 만들기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "새로운 요리 레시피 5개 정복하기",
+    "category": "daily",
+    "rarity": 4,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "대전 신탄진 카페거리 가보기",
+    "category": "daily",
+    "rarity": 1,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "부모님 모시고 병원 정기검진 같이 가기",
+    "category": "family",
+    "rarity": 4,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "여자친구 부모님께 인사드리러 가기",
+    "category": "family",
+    "rarity": 5,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "여자친구와 함께 보드게임 다섯 종류 정복하기",
+    "category": "family",
+    "rarity": 4,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "부모님께 계절 옷 선물하기",
+    "category": "family",
+    "rarity": 2,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "여자친구와 함께 요리 클래스 듣기",
+    "category": "family",
+    "rarity": 4,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "보드게임 자작 프로토타입 테스트해보기",
+    "category": "culture",
+    "rarity": 5,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "대전 국제와인페스티벌 참석하기",
+    "category": "culture",
+    "rarity": 4,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "대전 근교 저녁노을 명소 찾아가기",
+    "category": "travel",
+    "rarity": 1,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "대전 인근 저수지 낚시 체험하기",
+    "category": "travel",
+    "rarity": 2,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "대전 근교 캠핑장 당일 나들이",
+    "category": "travel",
+    "rarity": 1,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "여자친구와 캠핑카 여행 체험",
+    "category": "travel",
+    "rarity": 5,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "스쿼시 레슨 한 달 등록하기",
+    "category": "sports",
+    "rarity": 5,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "등산 스틱 사서 첫 등산 도전하기",
+    "category": "sports",
+    "rarity": 4,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "계단 오르기로 하루 운동량 채우기",
+    "category": "sports",
+    "rarity": 1,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "대전 지역 축제 자원봉사 신청 알아보기",
+    "category": "society",
+    "rarity": 2,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "도예가 공방 체험하기",
+    "category": "vocation",
+    "rarity": 4,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "요리사 원데이클래스 참여하기",
+    "category": "vocation",
+    "rarity": 3,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "인쇄소 견학하고 활판인쇄 체험하기",
+    "category": "vocation",
+    "rarity": 6,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "플로리스트 클래스 들어보기",
+    "category": "vocation",
+    "rarity": 3,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "제빵사 원데이클래스 참여하기",
+    "category": "vocation",
+    "rarity": 3,
+    "added_at": "2026-08-01"
+  },
+  {
+    "text": "실내 서바이벌 게임(에어소프트) 체험하기",
+    "category": "extreme",
+    "rarity": 3,
+    "added_at": "2026-08-01"
   }
 ]
