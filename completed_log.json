@@ -1114,5 +1114,185 @@
     "category": "science",
     "rarity": 1,
     "done_at": "2026-07-31"
+  },
+  {
+    "text": "연구실 근처 맛집 리스트 직접 만들어보기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "연구실 동료에게 커피 사주기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "자취방 화장실 방향제 바꾸기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "안 쓰는 전자제품 중고로 팔기",
+    "category": "daily",
+    "rarity": 4,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "보드게임 규칙집 다시 정독하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "계절 옷 정리하고 수납하기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "안 가본 동네 빨래방 이용해보기",
+    "category": "daily",
+    "rarity": 2,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "아침 라디오 들으며 출근 준비하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "새로운 브랜드 세제로 빨래해보기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "연구실 책상 위 먼지 닦기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "새로 산 이어폰으로 산책하기",
+    "category": "daily",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "여자친구와 같이 요가/스트레칭하기",
+    "category": "family",
+    "rarity": 2,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "사촌들과 단체 채팅방에서 근황 나누기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "부모님 집 안 대청소 도와드리기",
+    "category": "family",
+    "rarity": 4,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "여자친구와 편의점 야식 데이트하기",
+    "category": "family",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "보드게임 규칙 직접 번역/정리해보기",
+    "category": "culture",
+    "rarity": 2,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "동네 플리마켓에서 소품 구경하기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "대전 으능정이 문화의거리 구경하기",
+    "category": "culture",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "보드게임 카페에서 협력 게임 도전하기",
+    "category": "culture",
+    "rarity": 2,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "부모님과 함께 국내 온천 1박 여행",
+    "category": "travel",
+    "rarity": 4,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "계룡산 국립공원 입구까지 드라이브하기",
+    "category": "travel",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "동남아/일본 등 해외 단기 여행 다녀오기",
+    "category": "travel",
+    "rarity": 7,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "국내 유명 축제(불꽃축제 등) 원정 가기",
+    "category": "travel",
+    "rarity": 4,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "자전거로 대전-세종 왕복 라이딩하기",
+    "category": "sports",
+    "rarity": 5,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "배드민턴 라켓 새로 사서 쳐보기",
+    "category": "sports",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "명함 새로 디자인하기",
+    "category": "career",
+    "rarity": 2,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "특허 등록 완료하기",
+    "category": "career",
+    "rarity": 6,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "택시기사님과 이야기 나누며 이동하기",
+    "category": "vocation",
+    "rarity": 1,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "연구 노트 디지털화하기",
+    "category": "academia",
+    "rarity": 2,
+    "done_at": "2026-08-01"
+  },
+  {
+    "text": "후배 실험 데이터 정리 도와주기",
+    "category": "academia",
+    "rarity": 1,
+    "done_at": "2026-08-01"
   }
 ]
