@@ -1098,5 +1098,195 @@
     "text": "오케스트라 리허설 견학하기",
     "category": "vocation",
     "rarity": 3
+  },
+  {
+    "text": "동네 세탁소에 이불 맡기고 찾아오기",
+    "category": "daily",
+    "rarity": 1
+  },
+  {
+    "text": "자취방 커튼 새로 바꿔보기",
+    "category": "daily",
+    "rarity": 2
+  },
+  {
+    "text": "여자친구와 함께 방탈출카페 도전하기",
+    "category": "family",
+    "rarity": 2
+  },
+  {
+    "text": "부모님과 영상통화로 근황 나누기",
+    "category": "family",
+    "rarity": 1
+  },
+  {
+    "text": "여자친구와 동네 맛집 탐방 데이트",
+    "category": "family",
+    "rarity": 1
+  },
+  {
+    "text": "부모님 생신 선물 직접 골라 포장하기",
+    "category": "family",
+    "rarity": 2
+  },
+  {
+    "text": "여자친구와 함께 반려식물 키우기 시작하기",
+    "category": "family",
+    "rarity": 2
+  },
+  {
+    "text": "사촌 결혼식 참석하고 축의금 챙기기",
+    "category": "family",
+    "rarity": 3
+  },
+  {
+    "text": "여자친구와 커플 다이어리 쓰기 시작하기",
+    "category": "family",
+    "rarity": 2
+  },
+  {
+    "text": "부모님댁 냉장고 정리해드리기",
+    "category": "family",
+    "rarity": 2
+  },
+  {
+    "text": "여자친구와 보드게임 카페에서 데이트하기",
+    "category": "family",
+    "rarity": 1
+  },
+  {
+    "text": "동네 독립서점에서 낭독회 참여하기",
+    "category": "culture",
+    "rarity": 3
+  },
+  {
+    "text": "보드게임 신작 리뷰 영상 찍어보기",
+    "category": "culture",
+    "rarity": 4
+  },
+  {
+    "text": "대전 예술의전당 공연 관람하기",
+    "category": "culture",
+    "rarity": 3
+  },
+  {
+    "text": "대전 유성온천 당일치기 다녀오기",
+    "category": "travel",
+    "rarity": 1
+  },
+  {
+    "text": "충남 서산 마애삼존불 보러 가기",
+    "category": "travel",
+    "rarity": 2
+  },
+  {
+    "text": "대전 근교 딸기농장 체험 가기",
+    "category": "travel",
+    "rarity": 2
+  },
+  {
+    "text": "제주도 3박4일 여행 다녀오기",
+    "category": "travel",
+    "rarity": 5
+  },
+  {
+    "text": "부모님과 함께 벚꽃명소 나들이",
+    "category": "travel",
+    "rarity": 2
+  },
+  {
+    "text": "대전 계족산 황톳길 맨발로 걷기",
+    "category": "travel",
+    "rarity": 1
+  },
+  {
+    "text": "여자친구와 근교 펜션 1박 여행",
+    "category": "travel",
+    "rarity": 4
+  },
+  {
+    "text": "대전 뿌리공원 산책하기",
+    "category": "travel",
+    "rarity": 1
+  },
+  {
+    "text": "탁구 동호회 체험 등록하기",
+    "category": "sports",
+    "rarity": 2
+  },
+  {
+    "text": "대전 3.8선 자전거길 완주하기",
+    "category": "sports",
+    "rarity": 3
+  },
+  {
+    "text": "필라테스 원데이 클래스 체험하기",
+    "category": "sports",
+    "rarity": 2
+  },
+  {
+    "text": "동네 풋살장 예약해서 뛰기",
+    "category": "sports",
+    "rarity": 2
+  },
+  {
+    "text": "국토대장정 일부 구간 걷기",
+    "category": "sports",
+    "rarity": 6
+  },
+  {
+    "text": "대전 유성 사이클 파크 방문하기",
+    "category": "sports",
+    "rarity": 2
+  },
+  {
+    "text": "볼링 100점 넘기기 도전",
+    "category": "sports",
+    "rarity": 1
+  },
+  {
+    "text": "폴댄스 체험 클래스 들어보기",
+    "category": "sports",
+    "rarity": 4
+  },
+  {
+    "text": "연탄 나르기 봉사활동 참여하기",
+    "category": "society",
+    "rarity": 3
+  },
+  {
+    "text": "유기동물 보호소 봉사 하루 참여하기",
+    "category": "society",
+    "rarity": 4
+  },
+  {
+    "text": "동네 도서관 재능기부 강연하기",
+    "category": "society",
+    "rarity": 5
+  },
+  {
+    "text": "재난 대비 안전교육 이수하기",
+    "category": "society",
+    "rarity": 2
+  },
+  {
+    "text": "지역 프리마켓에서 물품 기부하기",
+    "category": "society",
+    "rarity": 2
+  },
+  {
+    "text": "후배 논문 초안 피드백 해주기",
+    "category": "career",
+    "rarity": 2
+  },
+  {
+    "text": "국제학회 포스터 발표 준비하기",
+    "category": "career",
+    "rarity": 4
+  },
+  {
+    "text": "연구비 지원사업 제안서 검토하기",
+    "category": "career",
+    "rarity": 3
   }
 ]
